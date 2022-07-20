@@ -1,0 +1,13 @@
+name = "Gtoc11"
+uuid = "2d615595-f772-497f-a345-e127b82953a1"
+authors = ["huangwb"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
